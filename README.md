@@ -1,60 +1,55 @@
-# 🤖 Churn.AI - Customer Churn Prediction System
+# 🤖 Churn.AI
+
+AI-powered Customer Churn Prediction System using Machine Learning.
+
+## 📌 Overview
+
+Churn.AI predicts whether a customer is likely to leave a service using multiple Machine Learning algorithms.
+
+## 🚀 Features
+
+- Multiple ML model selection
+- XGBoost prediction
+- Random Forest prediction
+- Churn probability estimation
+- Interactive Streamlit dashboard
+- Modern AI-based UI
 
 
-## Overview
+## 📸 Screenshots
 
-Churn.AI is an end-to-end Machine Learning application that predicts whether a customer is likely to leave a service.
 
-The application provides multiple ML models:
+### Dashboard
 
+![Dashboard](Screenshots/dashboard.png)
+
+
+### Prediction
+
+![Prediction](Screenshots/result.png)
+
+<h2 align="center">📸 Application Screenshots</h2>
+
+<p align="center">
+
+<img src="screenshots/selection.png" width="45%">
+
+<img src="screenshots/model.png" width="45%">
+
+</p>
+
+## 🛠 Technologies
+
+- Python
+- Pandas
+- Scikit-learn
 - XGBoost
-- Random Forest
-- Gradient Boosting
-- AdaBoost
-- Decision Tree
-- SVM
-- KNN
-- Naive Bayes
+- Streamlit
 
 
-## Features
+## ▶️ Run Locally
 
-✅ Multiple Machine Learning Models
+```bash
+pip install -r requirements.txt
 
-✅ Interactive Streamlit UI
-
-✅ Customer churn probability prediction
-
-✅ AI model selection
-
-✅ Modern dashboard interface
-
-
-## Dataset Features
-
-The model uses:
-
-- Age
-- Gender
-- Tenure
-- Monthly Charges
-- Total Charges
-- Contract Type
-- Internet Service
-- Tech Support
-
-
-## Technologies Used
-
-Python
-
-Machine Learning
-
-Streamlit
-
-Scikit-learn
-
-XGBoost
-
-
-Clone repository:
+streamlit run app.py
