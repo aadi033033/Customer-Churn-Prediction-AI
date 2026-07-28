@@ -32,9 +32,9 @@ Churn.AI predicts whether a customer is likely to leave a service using multiple
 
 <p align="center">
 
-<img src="screenshots/selection.png" width="45%">
+<img src="Screenshots/selection.png" width="45%">
 
-<img src="screenshots/model.png" width="45%">
+<img src="Screenshots/model.png" width="45%">
 
 </p>
 
