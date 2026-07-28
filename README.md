@@ -28,15 +28,18 @@ Churn.AI predicts whether a customer is likely to leave a service using multiple
 
 ![Prediction](Screenshots/result.png)
 
-<h2 align="center">📸 Application Screenshots</h2>
 
-<p align="center">
 
-<img src="Screenshots/selection.png" width="45%">
+### Models 
 
-<img src="Screenshots/models.png" width="45%">
+![Models](Screenshots/models.png)
 
-</p>
+
+### Entries 
+
+![Entries](Screenshots/selection.png)
+
+
 
 ## 🛠 Technologies
 
